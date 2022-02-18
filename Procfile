@@ -1,0 +1,1 @@
+web: gunicorn djcrm.wsgi:application --log-file -
